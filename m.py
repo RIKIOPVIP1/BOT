@@ -12,7 +12,7 @@ from pytz import timezone
 logging.basicConfig(filename='bot.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('8123860462:AAHJBeHRp9vWnsICdZ99KdI-XUv9rDaZRzk')
+bot = telebot.TeleBot('8123860462:AAH62LbROSh9VZVf4WxXJX9w26z2fw0Npt4')
 
 # Owner and admin user IDs
 owner_id = "915434612"
